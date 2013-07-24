@@ -1,0 +1,5 @@
+---
+name: elasticsearch
+
+files:
+- elasticsearch/elasticsearch-*
